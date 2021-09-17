@@ -1,0 +1,16 @@
+(ERROR) VideoModeManager::AddVideoMode:333: VideoMode 'Nexus 7B Visible' already exists
+Setting native video mode to 1024, 768 - Fullscreen: 0 Aspect Ratio: 1.00
+App shutting down from getting the X clicked
+App shutting down from getting the X clicked
+Warning: Not going to save variant screenY because it was never actually set a value
+Warning: Not going to save variant screenX because it was never actually set a value
+Warning: Not going to save variant screenY because it was never actually set a value
+Warning: Not going to save variant screenX because it was never actually set a value
+App shutting down from getting the X clicked
+Warning: Not going to save variant screenY because it was never actually set a value
+Warning: Not going to save variant screenX because it was never actually set a value
+Warning: Not going to save variant screenY because it was never actually set a value
+Warning: Not going to save variant screenX because it was never actually set a value
+KillCommunityHubMenu() dialog not active
+Killing sound cache
+Removing gamepad Controller (XBOX 360 For Windows)
